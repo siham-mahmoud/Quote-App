@@ -1,0 +1,24 @@
+.quote-content{
+    background-image: url(../imgs/hhh.jpeg);
+    background-position:center;
+ background-size: cover;
+ 
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    font-size: 35px;
+}
+.card{
+   min-height:600px;
+    box-shadow: 0 4px 8px rgba(33, 33, 33, 0.5);
+}
+button {
+     width: 250px;
+    height: 80px;
+    box-shadow: 0px 4px 8px rgba(33, 33, 33, 0.5);
+
+}
